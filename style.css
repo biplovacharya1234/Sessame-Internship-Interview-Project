@@ -1,0 +1,15 @@
+body{
+    font-family:'Raleway';
+}
+#heading{
+    font-size: 48px;
+    font-weight: 700;
+}
+p{
+color:black;
+font-family: 'Raleway';
+}
+.country{
+    color: #5F5F5F;
+    
+}
